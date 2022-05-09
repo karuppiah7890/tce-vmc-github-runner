@@ -1,1 +1,1 @@
-# tce-vmc-github-runner
+# vmc-github-runner
